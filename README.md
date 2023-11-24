@@ -1,6 +1,6 @@
 
 
-Uploading ezgif.com-gif-maker (15).mp4…
+https://github.com/hilalkrglmz/YouTube-clone/assets/140657703/25d43254-5510-414f-8136-806c98abcd07
 
 
 <!DOCTYPE html>
